@@ -1,7 +1,7 @@
 name: firebase-flutter
 description: An example Flutter project using Firebase.
 dependencies:
-  flutter: ">=0.0.2 <0.1.0"
+  flutter: ">=0.0.17 <0.1.0"
   firebase_rest: any
 dev_dependencies:
   sky_tools: any
