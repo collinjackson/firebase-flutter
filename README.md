@@ -1,9 +1,5 @@
-# REPLACE_ME
+# firebase-flutter
 
-A library for Flutter developers. It is awesome.
+A minimal example using Firebase with Flutter to read San Francisco cloud cover.
 
-## Features and bugs
-
-Please file feature requests and bugs at the [issue tracker][tracker].
-
-[tracker]: https://github.com/flutter/REPLACE_ME/issues
+![screenshot](assets/screenshot.png)
